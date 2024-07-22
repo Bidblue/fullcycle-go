@@ -1,4 +1,4 @@
-# Meu projeto Full Cycle
+# Desafio Go Full Cycle
 
 Este é um projeto incrível que demonstra a poderosa combinação de Go e Docker.
 
